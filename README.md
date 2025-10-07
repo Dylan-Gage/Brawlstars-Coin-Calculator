@@ -1,5 +1,5 @@
 # Brawlstars-Coin-Calculator
-Designed and developed a custom GUI-based calculator for in-game currency conversions, allowing users to input levels and instantly see total coin requirements.
+A custom GUI-based calculator for in-game currency conversions, allowing users to input levels and instantly see total coin requirements.
 
 -Implemented a clean, modern interface with icons, toggle switches, and a two-column layout using Python and customTkinter, inspired by mobile-friendly design.
 
